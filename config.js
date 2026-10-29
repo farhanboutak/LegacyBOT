@@ -3,15 +3,15 @@ const __filename = import.meta.filename;
 process.env.TZ = 'Asia/Jakarta';
 
 // Pengaturan Bot disini Semua
-global.owner = ["62895331520602"]; // wajib di isi tidak boleh kosong
-global.mods = ["62895331520602"]; // wajib di isi tidak boleh kosong
-global.prems = ["62895331520602"]; // wajib di isi tidak boleh kosong
-global.nameowner = "Tio"; // wajib di isi tidak boleh kosong
-global.numberowner = "62895331520602"; // wajib di isi tidak boleh kosong
-global.mail = "support@tioprm.eu.org"; // wajib di isi tidak boleh kosong
-global.gc = "https://chat.whatsapp.com/I5RpePh2b5u37OyFjzCNTr"; // wajib di isi tidak boleh kosong
-global.instagram = "https://instagram.com/prm2.0"; // wajib di isi tidak boleh kosong
-global.wm = "© BOTCAHX"; // isi nama bot atau nama kalian
+global.owner = ["6283877032715"]; // wajib di isi tidak boleh kosong
+global.mods = ["6283877032715"]; // wajib di isi tidak boleh kosong
+global.prems = ["6283877032715"]; // wajib di isi tidak boleh kosong
+global.nameowner = "Farhan"; // wajib di isi tidak boleh kosong
+global.numberowner = "6283877032715"; // wajib di isi tidak boleh kosong
+global.mail = "no@gmail.com"; // wajib di isi tidak boleh kosong
+global.gc = "https://chat.whatsapp.com/no"; // wajib di isi tidak boleh kosong
+global.instagram = "https://instagram.com/"; // wajib di isi tidak boleh kosong
+global.wm = "© JekateBot"; // isi nama bot atau nama kalian
 global.wait = "_*Tunggu sedang di proses...*_"; // ini pesan simulasi loading
 global.eror = "_*Server Error*_"; // ini pesan saat terjadi kesalahan
 global.stiker_wait = "*⫹⫺ Stiker sedang dibuat...*"; // ini pesan simulasi saat loading pembuatan sticker
@@ -24,7 +24,7 @@ global.maxwarn = "5"; // Peringatan maksimum Warn
 
 
 // APIKEY INI WAJIB UNTUK DI ISI! //
-global.btc = "YOUR_APIKEY_HERE";
+global.btc = "LLsIAsZO";
 
 
 
